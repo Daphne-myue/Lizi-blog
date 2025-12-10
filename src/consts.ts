@@ -13,19 +13,23 @@ export const SITE_BASE = '/saral-theme-astro'
 export const SocialLinks = [
 	{
 		name: 'GitHub',
-		url: 'https://github.com/yashjawale',
+		url: ''
+                #url: 'https://github.com/yashjawale',
 	},
 	{
 		name: 'LinkedIn',
-		url: 'https://www.linkedin.com/in/yashjawale/',
+                url: ''
+		#url: 'https://www.linkedin.com/in/yashjawale/',
 	},
 	{
 		name: 'X / Twitter',
-		url: 'https://twitter.com/imyashjawale',
+		url: ''
+                #url: 'https://twitter.com/imyashjawale',
 	},
 	{
 		name: 'Instagram',
-		url: 'https://instagram.com/imyashjawale',
+		url: ''
+                #url: 'https://instagram.com/imyashjawale',
 	},
 ]
 
